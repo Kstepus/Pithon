@@ -1,0 +1,8 @@
+my_string = input("Hello ")
+print(my_string)
+print("Urban universiti")
+print("Urban universiti" .upper())
+print("Urban universiti".lower())
+print("Urban universiti".replace("Urban","Gudbay"))
+print("Urban universiti".replace("","#"))#от себя дополнил)
+print("Urban universiti".replace(" ","#"))
