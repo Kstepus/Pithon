@@ -1,6 +1,3 @@
-from pythonProject.main import result
-
-
 def get_multiplied_digits(number):
     str_number = str(number)
     if len(str_number) > 1:
