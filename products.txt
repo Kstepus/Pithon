@@ -1,0 +1,4 @@
+
+ <__main__.Product object at 0x00000227976B2E40> 
+ <__main__.Product object at 0x00000227976D3610> 
+ <__main__.Product object at 0x00000227976D25D0> 
